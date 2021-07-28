@@ -1,7 +1,8 @@
 __INSTRUCTIONS FOR INSTALLING AND RUNNING gmtsar-gpu__
 ----------------------------------------------
 
-This toolset is intended to speed up InSAR processing by exploiting GPGPU through CUDA. Executable can substitute original sequential versions in GMTSAR. 
+This toolset is intended to speed up InSAR processing by exploiting GPGPU through CUDA. 
+Executables can substitute original sequential versions in GMTSAR. 
 At the moment, only _xcorr-gpu_ has been released. Soon, _esarp-gpu_ will follow.
 
 __REQUIREMENTS__

@@ -7,6 +7,7 @@ Executables can substitute original sequential versions in GMTSAR.
 
 At the moment, only _xcorr-gpu_ has been released. Soon, _esarp-gpu_ will follow.
 
+
 __REQUIREMENTS__
 
 1) A CUDA gpu and a full CUDA installation

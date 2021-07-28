@@ -1,3 +1,0 @@
-esarp_GPU-fft_bins.o: fft_bins.c /usr/include/stdc-predef.h
-
-/usr/include/stdc-predef.h:

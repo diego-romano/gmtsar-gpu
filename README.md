@@ -33,3 +33,4 @@ __RUN__
 
 Use as described in GMTSAR documentation.
 
+[![DOI](https://zenodo.org/badge/390372882.svg)](https://zenodo.org/badge/latestdoi/390372882)
